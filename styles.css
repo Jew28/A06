@@ -1,3 +1,7 @@
+:root {
+  --accent-color: #800000;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 100%;
@@ -17,8 +21,11 @@ h2 {
   font-size: 130%;
   color: var(--accent-color);
 }
-
+.large {
+  font-size: 125%;
+}
 h3 
 {
   font-size: 105%;
 }
+
